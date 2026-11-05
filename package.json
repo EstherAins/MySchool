@@ -1,0 +1,6 @@
+{
+  "name": "shkolla-ime",
+  "private": true,
+  "type": "module",
+  "dependencies": { "@netlify/database": "latest" }
+}
